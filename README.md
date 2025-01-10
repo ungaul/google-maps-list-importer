@@ -1,3 +1,13 @@
+![Project Status](https://img.shields.io/badge/Status-Unfinished-yellow)
+
+---
+
+# ⚠️ Warning: This Project is Not Finished / Deprecated ⚠️
+
+**This repository is either unfinished or deprecated and may not function as expected. Use at your own risk.**
+
+---
+
 # 📋 Import/Export Automation Script
 
 This project automates both the **import** and **export** of data between Excel and Google Maps. The script handles tasks like adding notes to Google Maps from Excel and exporting lists from Google Maps into Excel.
