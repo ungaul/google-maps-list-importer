@@ -67,25 +67,6 @@ This project allows you to automatically import places into your Google Maps lis
 
 ---
 
-## Included Files 🗂
-
-- `start.py`: Main script for automating the import process.
-- `coords.py`: Tool to find mouse click coordinates.
-- `custom-css.css`: Custom CSS for the Google Maps interface.
-- `example.csv`: Example CSV file in the expected format (with `URL` and `Note` columns).
-- `LICENSE.md`: Project license.
-- `.gitignore`: Gitignore file for sensitive files.
-
----
-
-## Important Notes 🛑
-
-1. **Screen Resolution**: Ensure the resolution specified in the script matches your setup. If it differs, update the click coordinates.
-2. **Browser Usage**: The script is configured for Firefox by default. Update `browser_path` if using a different browser.
-3. **Testing and Adjustments**: Test with a small CSV file before working with a larger one.
-
----
-
 ## Contributions 📚
 
 Contributions are welcome! Open an issue or submit a pull request to propose improvements.
